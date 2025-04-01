@@ -42,3 +42,12 @@ ffzap.com
 betterttv.net
 7tv.app
 7tv.io
+hoyolab.com
+hoyoverse.com
+zenlesszonezero.com
+challenges.cloudflare.com
+cloudflare.com
+dns.cloudflare.com
+cloudflare-ech.com
+cloudflare-dns.com
+alec.ns.cloudflare.com
